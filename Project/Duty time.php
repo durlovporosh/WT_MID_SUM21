@@ -1,6 +1,6 @@
 <html>
 	<body>
-		<table border=3>
+		<table align="center" border=3>
 			<tr>
 				<th colspan = 3>Weekly schedule </th>
 			</tr>
