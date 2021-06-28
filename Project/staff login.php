@@ -82,7 +82,7 @@ $err=false;
 		<td><span><?php echo $err_password;?></span></td>
 	</tr>
 	<tr>
-		<td align="center" colspan="3"><input type="submit" name="submit"value="Confirm"></td>
+		<td align="center" colspan="3"><input type="submit" name="submit"value="Login"></td>
 	</tr>
 	<tr>
 		<td colspan = 3><p style="text-align:right"><a target="_blank" href="Forget password.php">Forget password</a></p></td>

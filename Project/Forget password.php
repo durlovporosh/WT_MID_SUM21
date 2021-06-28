@@ -102,9 +102,9 @@ $err=false;
 		<td><span><?php echo $err_id;?></span></td>
 	</tr>
 	<tr>
-		<td><b>Enter your Requested date</b></td>
+		<td><b>Enter your date of birth</b></td>
 		<td>:</td>
-		<td><input type="date" name="dob" value = "<?php echo $dob; ?>" placeholder="Your Requested date here"></td>
+		<td><input type="date" name="dob" value = "<?php echo $dob; ?>" placeholder="Your date of birth here"></td>
 		<td><span><?php echo $err_dob;?></span></td>
 	</tr>
 	<tr>
